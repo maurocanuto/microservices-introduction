@@ -1,0 +1,6 @@
+rootProject.name = theName
+
+include 'eureka-server'
+include 'api-service'
+include 'users-service'
+
